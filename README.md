@@ -20,5 +20,7 @@ Things that I learned from this App:
 - Add image view
 - Add click listener
 - Style button
+- Use data binding to eliminate findViewById()
+- Use data binding to display data
 
 
